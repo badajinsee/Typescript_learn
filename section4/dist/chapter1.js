@@ -1,0 +1,15 @@
+/**
+ * 함수 타입 표현식
+ */
+const add = (a, b) => a + b;
+const sub = (a, b) => a - b;
+const multiply = (a, b) => a * b;
+const divide = (a, b) => a / b;
+// function func(a:number):void {}
+const add2 = (a, b) => a + b;
+const sub2 = (a, b) => a - b;
+const multiply2 = (a, b) => a * b;
+const divide2 = (a, b) => a / b;
+add2(1, 2);
+add.name;
+export {};
