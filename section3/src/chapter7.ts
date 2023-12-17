@@ -4,8 +4,6 @@
  * 타입을 상황에 따라 좁히는 방법을 이야기
  */
 
-import { type } from "os";
-
 type Person = {
   name: string;
   age: number;
